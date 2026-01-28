@@ -1,0 +1,3 @@
+/home/ivans/proga/cpp/dz4/geometry/CMakeFiles/geometry_public_test.dir
+/home/ivans/proga/cpp/dz4/geometry/CMakeFiles/edit_cache.dir
+/home/ivans/proga/cpp/dz4/geometry/CMakeFiles/rebuild_cache.dir
